@@ -1,0 +1,30 @@
+Starting build cycle for OSGeoLive 13 and call for translators and documenters
+
+28 February 2019
+
+Are you interested in joining our Open Source GIS experience? The build cycle for the next OSGeoLive release, 13.0, is going to start in 3 weeks at OSGeo Code Sprint 2019 in Minneapolis-St. Paul [1]. The final version is planned to be ready at 2nd August 2019 in time for FOSS4G 2019 in Bucharest [2]. Have a look at our schedule for the the detailed steps [3].
+
+Till then we have many challenges - from simple to challenging, to help describe and train people in the value of Open Source GIS.
+Translation
+
+Are you multi-lingual and interested in Open Source GIS? At the end of 2017 we moved the translation of OSGeoLive to transifex [4] and we still have many open translations. How about help translate one or two of the Project Overviews or Quickstarts? Have a look at our translation guide [5] to get involved.
+Packages
+
+Are you a programmer or packager with experience in one of the Open Source GIS applications. Are you interested in helping update a project to the latest version.
+
+Are you a technical writer interested in making FOSS4G accessible to all?
+
+Join us at OSGeo Code Sprint 2019
+
+There will be the OSGeo Code Sprint 2019 in Bucharest from 14th to 17th May 2019 [1]. Some people from OSGeoLive team will be there. We'd love to see you, whether you are new to Open Source or an experienced old timer.
+About OSGeoLive
+
+OSGeoLive (​http://live.osgeo.org) is a ​Lubuntu based distribution of Geospatial Open Source Software, available via a Live DVD, Virtual Machine and USB. You can use OSGeoLive to try a wide variety of open source geospatial software without installing anything.
+
+OSGeoLive team
+
+[1] ​https://wiki.osgeo.org/wiki/OSGeo_Community_Sprint_2019
+[2] ​https://2019.foss4g.org/
+[3] ​Need citation
+[4] ​https://www.transifex.com/osgeo/osgeolive/
+[5] ​https://wiki.osgeo.org/wiki/OSGeoLive_Translation_Process#Translate_on_Transifex
